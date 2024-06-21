@@ -480,6 +480,4 @@ It's a great way to learn.
 
 ## Origins & License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 This repository is the work of [many contributors]. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [Eisax, Inc.](https://github.com/eisax) To the extent possible under law, [Eisax, Inc.](https://https://github.com/eisax) has waived all copyright and related or neighboring rights to this work.
